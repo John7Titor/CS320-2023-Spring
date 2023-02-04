@@ -46,6 +46,14 @@ xlist_reverse(xs) => list_reverse(list_of_xlist(xs))
 
 (* ****** ****** *)
 
+(*xlist_reverse([1,2]) => [2,1]   
+xlist_reverse(xlist_reverse([1,2]))
+
+0 1 2 3 4
+
+
+ *)
+
 (*
 //
 Assign01-01: 10 points
