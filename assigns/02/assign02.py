@@ -69,7 +69,9 @@ def mylist_make_list(xs):
 
 # xs = [1,2,3,4,5]
 # ys = mylist_make_list(xs)
-# print("ys = ",end=''); mylist_print(ys); print();
+# print("ys = ",end=''); mylist_print(ys);print()
+# print(ys.get_cons2().get_cons2().get_cons1())
+
 
 ####################################################
 

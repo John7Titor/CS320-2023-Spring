@@ -2,7 +2,9 @@
 import sys
 sys.path.append('../MySolution')
 from assign02_02 import *
+from assign02_01 import *
 ####################################################
+print("[import ./../MySolution/assign02_01.py] is done!")
 print("[import ./../MySolution/assign02_02.py] is done!")
 ####################################################
 xs = mylist_nil()
